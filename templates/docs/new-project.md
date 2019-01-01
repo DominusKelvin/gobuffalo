@@ -7,7 +7,7 @@ You now have a working Buffalo installation. In this section, you will learn how
 
 <%= title("Create a new project") %>
 
-Buffalo aims to make building new web applications in Go as **quick and simple** as possible. What could be more simple than a *new application* generator?
+Buffalo aims to make building new web applications in Go as **quickly and simply** as possible. What could be more simple than a *new application* generator?
 
 Start by going to your `$GOPATH` and create your new application!
 
